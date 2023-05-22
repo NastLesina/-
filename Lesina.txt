@@ -3,5 +3,9 @@
 using namespace std;
 int main()
 {
+<<<<<<< HEAD
 	cout << "Привет, Соня!"
+=======
+	cout << "Привет";
+>>>>>>> b642cda754134e91f4e3d0b6b25703480838893b
 }
