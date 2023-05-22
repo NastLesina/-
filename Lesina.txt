@@ -7,7 +7,7 @@ int main()
 	srand(time(NULL));
 	int ROW = 10, COLUMN = 5;
 	int **arr = new int*[ROW];
-	float *result = new float[COLUMN]{0};
+	int *result = new float[COLUMN]{0};
 	for (int i = 0; i != ROW; i++)
 		arr[i] = new int[COLUMN];
 	for (int i = 0; i != ROW; i++)
