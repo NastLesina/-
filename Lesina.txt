@@ -35,3 +35,4 @@ int main()
 			result[i] = sqrt(result[i]);
 			cout << "Рузультат =" << result[i] << endl;
 		}
+}
